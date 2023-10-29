@@ -4,7 +4,7 @@ import pandas as pd
 # Directory where the prescription data files are located
 data_directory = './'
 
-# List of years for which you have data
+# List of years of data
 years = ['2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021']
 
 # Load the categorized medication data
